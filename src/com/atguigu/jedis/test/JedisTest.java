@@ -34,6 +34,8 @@ public class JedisTest {
 		
 		System.out.println(result);
 		
+		System.out.println(result);
+		
 		// Jedis使用完毕及时关闭
 		
 		jedis.close();
