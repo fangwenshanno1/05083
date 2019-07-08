@@ -100,6 +100,7 @@ public class JedisTest {
 		String value = jc.get("foo");
 		
 		System.out.println(value);
+		System.out.println(value);
 	}
 
 
